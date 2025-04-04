@@ -176,7 +176,54 @@ e=mc^{2}
 
 \end_inset
 
+Something
+\begin_inset Float figure
+placement document
+alignment document
+wide false
+sideways false
+status open
 
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename zzz_resources/images/download.jpg
+	lyxscale 80
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+MyImage
+\begin_inset CommandInset label
+LatexCommand label
+name "fig: MyImage"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+strange for your eyes.
+ 
 \end_layout
 
 \end_body

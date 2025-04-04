@@ -1,0 +1,7 @@
+Right below <body...> paste this
+
+
+<div style="position:fixed; left:20px; top:25%; transform:translateY(-50%); background:#1e1e1e; padding:10px; border-radius:5px;">
+  <a href="#magicparlabel-6" style="display:block; color:#bb86fc; margin:5px 0;">Section 1</a>
+  <a href="#magicparlabel-18" style="display:block; color:#bb86fc; margin:5px 0;">Section 2</a>
+</div>

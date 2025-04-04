@@ -164,25 +164,7 @@ status open
 \end_layout
 
 \begin_layout Standard
-Here is a link to the second part 
-\begin_inset CommandInset href
-LatexCommand href
-name "Link to BlogTest1"
-target "https://ynaghibi.github.io/BigBlogTest//BlogTest1"
-literal "false"
 
-\end_inset
-
- and here a link to the third part 
-\begin_inset CommandInset href
-LatexCommand href
-name "Some New Blog"
-target "https://ynaghibi.github.io/BigBlogTest//Some%20New%20Blog"
-literal "false"
-
-\end_inset
-
- of the github links.
 \end_layout
 
 \begin_layout Section

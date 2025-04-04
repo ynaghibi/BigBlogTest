@@ -163,6 +163,28 @@ status open
 
 \end_layout
 
+\begin_layout Standard
+Here is a link to the second part 
+\begin_inset CommandInset href
+LatexCommand href
+name "Link to BlogTest1"
+target "https://ynaghibi.github.io/BigBlogTest//BlogTest1"
+literal "false"
+
+\end_inset
+
+ and here a link to the third part 
+\begin_inset CommandInset href
+LatexCommand href
+name "Link to BlogTest1"
+target "https://ynaghibi.github.io/BigBlogTest//BlogTest1"
+literal "false"
+
+\end_inset
+
+ of the github links.
+\end_layout
+
 \begin_layout Section
 This is a quick test
 \end_layout
@@ -770,7 +792,7 @@ status open
 \begin_inset Graphics
 	filename zzz_resources/images/GitTest_Image.png
 	lyxscale 25
-	scale 40
+	scale 30
 
 \end_inset
 
